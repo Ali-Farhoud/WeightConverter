@@ -7,3 +7,4 @@ in different units.
 
 - Manipulate the DOM using vanilla javascript
 - adding event listeners that perform a function when fired
+- used css framework Bootstrap for styling
